@@ -28,4 +28,5 @@ This application is ideal for monitoring performance, debugging bottlenecks, or 
 Install required Python packages using:
 
 ```bash
-pip install pyqt5 pyqtgraph psutil gputil wmi
+pip install -r requirements.txt
+
